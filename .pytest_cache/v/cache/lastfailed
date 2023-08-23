@@ -3,5 +3,9 @@
   "src/test/test_main.py::test_cambio_params[5-1--1]": true,
   "src/test/test_main.py::test_cambio_params[4-5-1]": true,
   "src/test/test_main.py::test_cambio_params[2-10-8]": true,
-  "src/test/test_main.py::test_cambio_params_fail": true
+  "src/test/test_main.py::test_numIP[1-10]": true,
+  "src/test/test_main.py::test_numPrimos[4-False]": true,
+  "src/test/test_main.py::test_numPrimos[9-False]": true,
+  "src/test/test_main.py::test_numPrimos[11-False]": true,
+  "src/test/test_main.py::test_numPrimos[8-True]": true
 }
