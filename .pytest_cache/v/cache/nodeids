@@ -1,0 +1,18 @@
+[
+  "src/test/test_main.py::test_cambio_params[2-10--8]",
+  "src/test/test_main.py::test_cambio_params[2-10-8]",
+  "src/test/test_main.py::test_cambio_params[4-5--1]",
+  "src/test/test_main.py::test_cambio_params[4-5-1]",
+  "src/test/test_main.py::test_cambio_params[5-1--1]",
+  "src/test/test_main.py::test_cambio_params[5-1-4]",
+  "src/test/test_main.py::test_cambio_params[5-5-0]",
+  "src/test/test_main.py::test_cambio_params_fail",
+  "src/test/test_main.py::test_login_fail",
+  "src/test/test_main.py::test_login_pass",
+  "src/test/test_main.py::test_sum",
+  "src/test/test_main.py::test_sum_params[5-1-6]",
+  "src/test/test_main.py::test_sum_params[5-12-16]",
+  "src/test/test_main.py::test_sum_params[5-12-17]",
+  "src/test/test_main.py::test_sum_params[5-4-9]",
+  "src/test/test_main.py::test_sum_params[6-4-10]"
+]

@@ -1,0 +1,7 @@
+{
+  "src/test/test_main.py::test_sum_params[5-12-16]": true,
+  "src/test/test_main.py::test_cambio_params[5-1--1]": true,
+  "src/test/test_main.py::test_cambio_params[4-5-1]": true,
+  "src/test/test_main.py::test_cambio_params[2-10-8]": true,
+  "src/test/test_main.py::test_cambio_params_fail": true
+}
